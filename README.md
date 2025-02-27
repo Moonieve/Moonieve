@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moonieve
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning QA
-- 💞️ I’m looking to collaborate on QA
+- 👀 I’m interested in QA and Data Engineer
+- 🌱 I’m currently learning QA and Data
+- 💞️ I’m looking to collaborate on QA and Data
 - 📫 How to reach me @luiza.moonieve
 
 <!---
