@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luiza-Moonieve
 - 👀 I’m interested in QA and JavaScript Developpment
-- 🌱 I’m currently learning QA and Java
-- 💞️ I’m looking to collaborate on QA and Java
+- 🌱 I’m currently learning QA and JavaScript
+- 💞️ I’m looking to collaborate on QA and JavaScript
 - 📫 How to reach me @luiza.moonieve
 
 <!---
