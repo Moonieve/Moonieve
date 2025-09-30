@@ -5,7 +5,7 @@
 - 📚 Currently Studying Software Engineering 
 - 📫 How to reach me @luiza.moonieve
 
-🤌🏼📑📂🖥️
+📑📂🖥️
 
 <!---
 Moonieve/Moonieve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
