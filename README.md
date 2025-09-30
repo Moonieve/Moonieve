@@ -2,7 +2,10 @@
 - 👀 I’m interested in QA and JavaScript Developpment
 - 🌱 I’m currently learning QA and JavaScript
 - 💞️ I’m looking to collaborate on QA and JavaScript
+- 📚 Currently Studying Software Engineering 
 - 📫 How to reach me @luiza.moonieve
+
+🤌🏼📑📂🖥️
 
 <!---
 Moonieve/Moonieve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
