@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luiza-Moonieve
-- 👀 I’m interested in QA and JavaScript Developpment
+- 👀 I’m interested in Data Dev.
 - 🌱 I’m currently learning QA and JavaScript
 - 💞️ I’m looking to collaborate on QA and JavaScript
 - 📚 Currently Studying Software Engineering 
